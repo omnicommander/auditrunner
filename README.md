@@ -4,7 +4,7 @@ Scans websites for changes of pages and issues and email to the associated user 
 
 
 ## Configuration
-`auditrunner/config/index.js`
+edit `auditrunner/config/index.js`
 
 ```
     dev:{
