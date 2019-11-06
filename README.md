@@ -30,4 +30,4 @@ Set the email address to receive notifications for development mode.
 `npm run start --dev` 
 
 ## run auditRunnerservice production
-`npm run start --dev`
+`npm run start --prod`
