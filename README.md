@@ -6,7 +6,8 @@ Scans websites for changes of pages and issues and email to the associated user 
 ## Configuration
 `auditrunner/config/index.js`
 
-```dev:{
+```
+    dev:{
 		host: 'localhost',
 		port: '27017',
 		dbname: 'newaudit',
