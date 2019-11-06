@@ -1,7 +1,7 @@
 # Audit Runner Service for OC Scan
 
-## Install
-`npm install`
+## Install with latest version of everything
+`npm install npm@latest -g`
 `npm i nodemon --save`
 
 
