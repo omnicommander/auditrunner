@@ -2,6 +2,23 @@
 
 Scans websites for changes of pages and issues and email to the associated user with notification.
 
+
+## Configuration
+`auditrunner/config/index.js`
+
+```dev:{
+		host: 'localhost',
+		port: '27017',
+		dbname: 'newaudit',
+		siteLink: 'http://localhost:8080',
+		email: 'scott@omnicommander.com'
+	}
+```
+Set the email address to receive notifications for development mode. 
+
+
+
+
 ## Install with latest version of everything
 `npm install npm@latest -g`
 
