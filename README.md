@@ -11,7 +11,7 @@ Scans websites for changes of pages and issues and email to the associated user 
 		port: '27017',
 		dbname: 'newaudit',
 		siteLink: 'http://localhost:8080',
-		email: 'scott@omnicommander.com'
+		email: 'developer@mail.com'
 	}
 ```
 Set the email address to receive notifications for development mode. 
