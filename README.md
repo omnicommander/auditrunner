@@ -2,6 +2,7 @@
 
 ## Install with latest version of everything
 `npm install npm@latest -g`
+## nodemon (if not installed)
 `npm i nodemon --save`
 
 
