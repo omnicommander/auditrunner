@@ -1,12 +1,11 @@
 {
   "name": "auditRunnerService",
-  "author": "",
-  "version": "1.0.0",
+  "author": "Omnicommander",
+  "version": "1.0.1",
   "description": "Service for running the audit of all registered Sites",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js",
-    "audit": "nodemon server2.js"
   },
   "config": {
     "dev": "http://localhost:8080",

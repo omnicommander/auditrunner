@@ -17,9 +17,6 @@ edit `auditrunner/config/index.js`
 ```
 Set the email address to receive notifications for development mode. 
 
-
-
-
 ## Install with latest version of everything
 `npm install npm@latest -g`
 
