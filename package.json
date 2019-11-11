@@ -5,7 +5,7 @@
   "description": "Service for running the audit of all registered Sites",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js",
+    "start": "nodemon server.js"
   },
   "config": {
     "dev": "http://localhost:8080",
